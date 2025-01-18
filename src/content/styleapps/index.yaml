@@ -16,4 +16,4 @@ customCSS: >-
   .vidbox{opacity:.3; height: 120vh !important; width: 120vw !important;} #menu
   {position:sticky !important; } #menu{position:-webkit-sticky !important;
   position:sticky
-    !important;} .font, h2, h3, h1, h4{font-size:200% !important; font-style:italic;} button .font{font-size:2rem !important;}
+    !important;} .font, h2, h3, h1, h4{font-size:200% !important; font-style:italic;} button .font{font-size:2rem !important;} .backup{display:none !important;}
