@@ -13,7 +13,7 @@ lightText: rgba(243, 231, 231, 1)
 darkText: rgba(243, 231, 231, 1)
 customCSS: >-
   #menu{position:-webkit-sticky !important; position:sticky !important;}
-  .vidbox{opacity:.3; height: 150vh !important; width: 150vw !important;} #menu
+  .vidbox{opacity:.3; height: 115vh !important; width: 115vw !important;} #menu
   {position:sticky !important; } #menu{position:-webkit-sticky !important;
   position:sticky
     !important;} .font, h2, h3, h1, h4{font-size:200% !important; font-style:italic;} button .font{font-size:2rem !important;}  .faq-accordion-title h3{font-size:80% !important;} .faq-content{padding:0 !important}
