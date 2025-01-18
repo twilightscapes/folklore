@@ -5,8 +5,4 @@ showFaqsOnPhotos: false
 showTestimonialsOnPhotos: false
 showGallerySelector: false
 showSwitch: false
-galleryImages:
-  - image: /images/galleryImages/0/image.webp
-  - image: /images/galleryImages/1/image.webp
-  - image: /images/galleryImages/2/image.jpg
-  - image: /images/galleryImages/3/image.avif
+galleryImages: []
