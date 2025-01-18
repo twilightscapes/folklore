@@ -1,14 +1,19 @@
-backgroundImage: /images/styleapps/backgroundImage.svg
+backgroundImage: /images/styleapps/backgroundImage.webp
+backgroundVideo: >-
+  https://www.youtube.com/embed/hUssI10xBUU?si=mjuzeMvS8Q5UxwGB&amp;controls=0&amp;autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=hUssI10xBUU&amp;playsinline=1&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;fs=0&amp;endscreen=0
 siteFont: Orbitron
 borderRadius: 10px
 lightBg: rgba(192, 185, 185, 0.57)
 lightAccent2: rgba(0, 0, 0, 1)
 darkBg: rgba(34, 34, 34, 1)
 darkAccent2: rgba(0, 0, 0, 1)
-lightHeader: rgba(0, 0, 0, 0.9)
-darkHeader: rgba(0, 0, 0, 0.9)
+lightHeader: rgba(0, 0, 0, 0)
+darkHeader: rgba(0, 0, 0, 0)
 lightText: rgba(0, 0, 0, 1)
 darkText: rgba(243, 231, 231, 1)
 customCSS: >-
-  .backimage{ max-height:50vh; margin-top: 20vh; object-fit: contain
-  !important;  opacity:.4 ; }
+  #menu{position:-webkit-sticky !important; position:sticky !important;}
+  .vidbox{opacity:.3; height: 120vh !important; width: 120vw !important;} #menu
+  {position:sticky !important; } #menu{position:-webkit-sticky !important;
+  position:sticky
+    !important;} 
