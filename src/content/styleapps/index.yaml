@@ -1,7 +1,7 @@
 backgroundImage: /images/styleapps/backgroundImage.webp
 backgroundVideo: >-
   https://www.youtube.com/embed/hUssI10xBUU?si=mjuzeMvS8Q5UxwGB&amp;controls=0&amp;autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=hUssI10xBUU&amp;playsinline=1&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;fs=0&amp;endscreen=0
-siteFont: Orbitron
+siteFont: Ms Madi
 borderRadius: 10px
 lightBg: rgba(192, 185, 185, 0.57)
 lightAccent2: rgba(0, 0, 0, 1)
@@ -16,4 +16,4 @@ customCSS: >-
   .vidbox{opacity:.3; height: 120vh !important; width: 120vw !important;} #menu
   {position:sticky !important; } #menu{position:-webkit-sticky !important;
   position:sticky
-    !important;} 
+    !important;} .font, h2, h3, h1, h4{font-size:230% !important;} button .font{font-size:2rem !important;}
