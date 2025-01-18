@@ -8,7 +8,7 @@ showApp: false
 showHomeGallery: false
 showResume: false
 showPosts: true
-showMore: true
+showMore: false
 showFaqOnHome: false
 showTestOnHome: false
 pitch: How It Works
