@@ -2,7 +2,7 @@ logoImage: /images/logo/logoImage.webp
 defaultView: swipe
 MAX_POSTS: 50
 MAX_POSTS_PER_PAGE: 20
-showHeader: true
+showHeader: false
 showLogo: false
 showHome: false
 showTheme: false
