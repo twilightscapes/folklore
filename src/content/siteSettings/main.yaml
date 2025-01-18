@@ -14,4 +14,4 @@ showDates: false
 enableImageBlur: true
 showSocial: false
 showTags: true
-showShare: false
+showShare: true
