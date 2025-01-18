@@ -9,7 +9,7 @@ showHomeGallery: false
 showResume: false
 showPosts: true
 showMore: false
-showFaqOnHome: false
+showFaqOnHome: true
 showTestOnHome: false
 pitch: How It Works
 pitch2: Social Media That YOU Control
