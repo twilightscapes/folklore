@@ -14,6 +14,6 @@ showCheck: true
 showTitles: true
 showDates: false
 enableImageBlur: true
-showSocial: false
+showSocial: true
 showTags: true
 showShare: true
