@@ -303,6 +303,7 @@ const collections = {
       homelink: z.string().optional(),
       copyright: z.string().optional(),
       goback: z.string().optional(),
+      top: z.string().optional(),
       viewmore: z.string().optional(),
       allimages: z.string().optional(),
       close: z.string().optional(),
