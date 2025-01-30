@@ -1,16 +1,8 @@
-showFeature: true
 featureImage:
   src: /images/homepage/featureImage/src.webp
 youtube:
   discriminant: false
-showBioOnHome: false
-showApp: false
-showHomeGallery: false
-showResume: false
-showPosts: true
 showMore: false
-showFaqOnHome: true
-showTestOnHome: false
 pitch: How It Works
 pitch2: Social Media That YOU Control
 pitch3: High Seas Freedom
