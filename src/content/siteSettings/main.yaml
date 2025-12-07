@@ -7,10 +7,7 @@ showHeader: false
 showLogo: false
 showHome: false
 showTheme: false
-showSwitch: true
-showSearch: false
 showFooter: false
-showCheck: true
 showTitles: true
 showDates: false
 enableImageBlur: true
